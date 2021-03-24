@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mechaman122/mechaman122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho Chi Minh University of Technology. You can contact me via , Zalo or Instagram (though I rarely use this one 🤣🤣)
 
-Here are some ideas to get you started:
+- Some of my hobbies:
+- 📖 Reading books (usually by English, as a way to improve my skill)
+- 💻Play games (I'm playing Valorant 🔫🔫, some other FPS and visual novel game 🤣🤣)
+- 🎥Watching (not really an enthusiast, but I love all kinds of superheroes movies and I'm a ROM-COM LOVER!!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Future plans with updates:
+- Mastering C++ (starter I think)
+- Play a musical instrument (tried piano before, now I want to play the guitar)
+
+...waiting for more updates... :))
