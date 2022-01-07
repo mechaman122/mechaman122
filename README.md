@@ -9,6 +9,6 @@ I'm Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho Chi
 
 Future plans with updates:
 - Mastering C++ (starter I think)
-- Play a musical instrument (tried piano before, now I want to play the guitar)
+- Design Web and other Web-related stuff
 
 ...waiting for more updates... :))
