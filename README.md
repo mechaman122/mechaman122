@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho Chi Minh University of Technology. You can contact me via Facebook or Zalo
+I'm Han Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho Chi Minh University of Technology. You can contact me via Facebook: https://www.facebook.com/han.phong.186
 
 Some of my hobbies:
 - 📖 Reading books (usually by English, as a way to improve my skill)
