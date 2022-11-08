@@ -5,7 +5,7 @@ I'm Han Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho
 Some of my hobbies:
 - 📖 Reading books (usually by English, as a way to improve my skill)
 - 💻 Playing games
-- 📺 Watching films (mostly anime, sometimes Western stuff)
+- 📺 Watching films
 
 Experiences:
 - Not yet any real-life one...
