@@ -2,7 +2,7 @@
 
 I'm Han Phong, or you can call me Krist. I'm currently a CSE undergraduate of Ho Chi Minh University of Technology.
 
-Some of my hobbies:
+### Some of my hobbies:
 - 📖 Reading books 
 - 💻 Playing games
 - 📺 Watching films
