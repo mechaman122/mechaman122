@@ -1,15 +1,16 @@
 ## Hello there 👋
 
-I'm Hàn Phong, or you can call me Krist. I'm a CSE Graduate of Ho Chi Minh University of Technology.
+I'm Han Phong, or Mekka. I'm a CSE Graduate of Ho Chi Minh University of Technology, now Gradute Student of Nagaoka University of Technology.
 
 
 ### Some of my hobbies:
 - 📖 Reading books 
 - 💻 Playing games
 - 🧑‍💻 Coding
+- 📺 Watching anime
 
 
-### 2025 Plans with updates:
-- Make an indie game: I made one for Global GameJam 2025
-- Make at least an app
-- Learn pixel art
+### 2026 Plans with updates:
+- Make an indie game (my own for real)
+- Get JLPT N1
+- Keep doing my Masters
